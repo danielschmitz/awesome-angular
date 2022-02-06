@@ -378,6 +378,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
+* [Angular 13 from Scratch](https://leanpub.com/book-angular) `Leanpub`
 
 #### On-Site Training
 
